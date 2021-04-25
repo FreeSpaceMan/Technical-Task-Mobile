@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Technical Task Mobile</string>
+    <string name="login_button_text">login</string>
+</resources>
